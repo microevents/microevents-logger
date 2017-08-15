@@ -1,2 +1,2 @@
 # microevents-logger
-Microevent Logger Daemon 
+Microevents Logger Daemon 
